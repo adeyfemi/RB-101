@@ -116,7 +116,6 @@ selected_numbers = []
 puts selected_numbers
 
 #Sum or Product of Consecutive Integers
-
 def prompt(msg)
   puts ">> #{msg}"
 end
